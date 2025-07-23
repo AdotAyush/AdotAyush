@@ -108,7 +108,7 @@
 ## 🎓 Education
 
 **B.E. in Computer Science** (2022–2026)  
-Nitte Meenakshi Institute of Technology (VTU), Bengaluru North | **CGPA:** 8.28
+Nitte Meenakshi Institute of Technology (VTU), Bengaluru North | **CGPA:** 8.12
 
 ---
 
