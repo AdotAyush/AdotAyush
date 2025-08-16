@@ -28,8 +28,8 @@
       color: #ADFF2F;
       text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
     ">
-      MERN‑Stack Developer · Java DSA Enthusiast<br/>
-      Aspiring Data‑Intensive Web Developer
+      Software Developer · Java DSA Enthusiast<br/>
+      Aspiring Data‑Intensive Software & Security Engineer
     </p>
   </div>
 </div>
@@ -42,10 +42,9 @@
 ## 🧩 About Me
 
 🎓 **B.E. Computer Science (2022–2026)** @ Nitte Meenakshi Institute of Technology (VTU)  
-💼 **Full‑Stack Developer** with 3+ end‑to‑end MERN apps & strong Java DSA foundations  
+💼 **Software Engineer** with strong Java DSA foundations  
 🚀 Passionate about building **scalable**, **secure**, **data‑centric** web systems  
-🔒 Creator of **AESChatApp** (secure messaging);  
-📈 Solving LeetCode (400+ problems) to sharpen algorithms & system‑design skills
+📈 Solving LeetCode, Codeforces and CodeChef problems to sharpen data structures & algorithms.
 
 ---
 
@@ -53,19 +52,31 @@
 
 <!-- Core -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<!-- Data & DevOps -->
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+<!-- Frameworks -->
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+<!-- Databases -->
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+<!-- Cloud & DevOps -->
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <!-- Tools -->
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
 
 ---
 
@@ -79,27 +90,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdotAyush&layout=compact&theme=tokyonight&hide_progress=false" width="37%" />
 </p>
 
-
----
-
-## 💼 Projects
-
-### 🔹 Chess Game & AI Engine  
-**Oct 2024** | Java, Swing, Minimax + Alpha‑Beta Pruning
-- Engine with pruning → halved move‑compute time (5s→2.5s)  
-- Intuitive GUI, undo/history, adjustable difficulty → +30% engagement
-
-### 🔹 GoFundMe‑Style Crowdfunding App  
-**Dec 2024** | MERN, JWT  
-- Scalable campaign platform w/ real‑time progress bars  
-- JWT auth, secure transactions, 100+ active users
-
 ---
 
 ## 🛠️ Other Highlights and Under Development
 
 - **Sonarium** (WIP): Emotion‑spectrum slider to curate music  
-- **AESChatApp**: End‑to‑end encrypted chat over web sockets  
+- **E2E Encrypted Chat App**: End‑to‑end encrypted chat over web sockets  
 - **Bankruptcy Prediction**: ML pipeline with SMOTE & Logistic Regression  
 - **Netflix Analytics Dashboard**: Interactive Tableau visualizations  
 
