@@ -95,9 +95,8 @@
 ## 🛠️ Other Highlights and Under Development
 
 - **Sonarium** (WIP): Emotion‑spectrum slider to curate music  
-- **E2E Encrypted Chat App**: End‑to‑end encrypted chat over web sockets  
+- **E2E Encrypted Chat App**: End‑to‑end encrypted chat over web sockets 
 - **Bankruptcy Prediction**: ML pipeline with SMOTE & Logistic Regression  
-- **Netflix Analytics Dashboard**: Interactive Tableau visualizations  
 
 ---
 
