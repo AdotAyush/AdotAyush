@@ -1,6 +1,5 @@
 <!-- Banner -->
 <div style="position: relative; width: 100%; max-width: 960px; margin: auto;">
-
   <!-- Background Image -->
 
   <!-- Centered Text Overlay -->
