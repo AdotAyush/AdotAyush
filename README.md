@@ -100,12 +100,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AdotAyush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdotAyush&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="48%" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdotAyush&layout=compact&theme=tokyonight&hide_progress=false" width="37%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdotAyush&layout=compact&theme=tokyonight&hide_progress=false" width="37%" />
 </p>
+
 
 ---
 
